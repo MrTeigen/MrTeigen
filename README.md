@@ -78,9 +78,9 @@
 <h2 align="center">📈 My GitHub Stats</h2>
 
 <center>
-    <img src="https://github-readme-stats.vercel.app/api?username=MrTeigen&hide=stars,issues,contribs&show_icons=true)" alt="MrTeigen's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrTeigen&hide=stars,issues,contribs&show_icons=true)" alt="MrTeigen's github stats" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTeigen&layout=compact&hide=html,css" alt="MrTeigen's github top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTeigen&layout=compact&hide=html,css" alt="MrTeigen's github top languages" />
 </center>
 
 ---
