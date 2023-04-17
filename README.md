@@ -7,7 +7,9 @@
 <br>
 <br>
 <div align="center">
-[Email Me](mailto:christianteigen94@gmail.com)
+<a href="mailto:christianteigen94@gmail.com" target="_blank">
+    <p>Contact me</p>
+</a>
 </div>
 </p>
 <!-- End First Section -->
