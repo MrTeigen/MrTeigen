@@ -28,6 +28,9 @@
 <a href="https://www.tensorflow.org/" target="blank_" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50px" height="50px"/>
 </a>
+<a href="https://keras.io/" target="blank_" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="50px" height="50px"/>
+</a>
 <a href="https://scikit-learn.org/stable/" target="blank_" rel="noreferrer">
     <img src="https://enclaive.io/wp-content/uploads/2021/09/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50px"/>
 </a>
