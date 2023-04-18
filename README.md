@@ -19,6 +19,7 @@
 
 <!-- Gif (Drag and drop) -->
 
+<div align="center">
 <a href="https://www.python.org/" target="blank_" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50px" height="50px"/>
 </a>
@@ -85,6 +86,7 @@
 <a href="https://sass-lang.com/" target="blank_" rel="noreferrer">
     <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="50px" height="50px"/>
 </a>
+</div>
 
 <!-- End Second Section -->
 
