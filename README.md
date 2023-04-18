@@ -76,6 +76,15 @@
 <a href="https://www.w3schools.com/css/" target="blank_" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css" width="50px" height="50px"/>
 </a>
+<a href="https://getbootstrap.com/" target="blank_" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="50px" height="50px"/>
+</a>
+<a href="https://jquery.com/" target="blank_" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="jquery" width="50px" height="50px"/>
+</a>
+<a href="https://sass-lang.com/" target="blank_" rel="noreferrer">
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="50px" height="50px"/>
+</a>
 
 <!-- End Second Section -->
 
