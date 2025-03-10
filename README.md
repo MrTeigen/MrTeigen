@@ -33,19 +33,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="50px" height="50px"/>
 </a>
 <a href="https://scikit-learn.org/stable/" target="blank_" rel="noreferrer">
-    <img src="https://enclaive.io/wp-content/uploads/2021/09/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" height="50px"/>
 </a>
 <a href="https://pandas.pydata.org/" target="blank_" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" alt="pandas" height="50px"/>
 </a>
 <a href="https://numpy.org/" target="blank_" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy" width="50px" height="50px"/>
+    <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="numpy" width="50px" height="50px"/>
 </a>
 <a href="https://matplotlib.org/" target="blank_" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" height="50px"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="blank_" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" height="50px"/>
+    <img src="https://miro.medium.com/v2/resize:fit:819/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="seaborn" height="50px"/>
 </a>
 <a href="https://git-scm.com/" target="blank_" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="50px"/>
@@ -57,7 +57,7 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50px" height="50px"/>
 </a>
 <a href="https://www.tableau.com/" target="blank_" rel="noreferrer">
-    <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau"height="50px"/>
+    <img src="https://audienceview.com/wp-content/uploads/sites/2/2024/03/Tableau-Logo.png" alt="tableau"height="50px"/>
 </a>
 <a href="https://www.java.com/en/" target="blank_" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50px" height="50px"/>
@@ -84,7 +84,7 @@
     <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="jquery" width="50px" height="50px"/>
 </a>
 <a href="https://sass-lang.com/" target="blank_" rel="noreferrer">
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="50px" height="50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="sass" width="50px" height="50px"/>
 </a>
 </div>
 
