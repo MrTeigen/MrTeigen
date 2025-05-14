@@ -1,9 +1,12 @@
 <!-- First Section -->
 <h1>👨‍💻 Christian Teigen</h1>
 
-<!-- Gif (Drag and drop) -->
 <p align:"center">
-    I am a quite inquisitive person, always eager to learn new things. I constantly seek opportunities to expand my knowledge and expertise. I have always found numbers and data fascinating, and I am passionate about using data to solve problems.
+    💡 Curious learner with a relentless drive to explore new technologies and deepen my expertise. Passionate about transforming abstract ideas into <b>interactive, visually compelling experiences</b> whether through crafting intuitive frontend interfaces or telling stories with data. Let’s build solutions that inspire.
+
+Focus: Python | Javascript / Typescript
+<br>
+Always: Experimenting with new tools, frameworks, and creative coding.
 <br>
 <br>
 <div align="center">
@@ -16,8 +19,6 @@
 
 <!-- Second Section -->
 <h2 style="color: #44AEFB">⚙️ Languages and Tools:</h2>
-
-<!-- Gif (Drag and drop) -->
 
 <div align="center">
 <a href="https://www.python.org/" target="blank_" rel="noreferrer">
@@ -47,6 +48,15 @@
 <a href="https://seaborn.pydata.org/" target="blank_" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:819/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="seaborn" height="50px"/>
 </a>
+<a href="https://grafana.com" target="blank_" rel="noreferrer">
+    <img src="https://werusys.de/wp-content/uploads/2022/11/Grafana_logo.svg.png" alt="Grafana" height="50px"/>
+</a>
+<a href="https://prometheus.io" target="blank_" rel="noreferrer">
+    <img src="https://i.pinimg.com/originals/cc/c3/81/ccc3816099ebc2d42ba538bf747b8918.png" alt="Prometheus" height="50px"/>
+</a>
+<a href="https://grafana.com/oss/loki/" target="blank_" rel="noreferrer">
+    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ffiles.readme.io%2Fe5e1b43-grafana-loki.png&sp=1747249768T3e63f13f11e83c39e0a696e9c3e5003ea3d79a0b068b8ee0999003cfdd454c7e" alt="Loki" height="50px"/>
+</a>
 <a href="https://git-scm.com/" target="blank_" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="50px"/>
 </a>
@@ -59,8 +69,11 @@
 <a href="https://www.tableau.com/" target="blank_" rel="noreferrer">
     <img src="https://audienceview.com/wp-content/uploads/sites/2/2024/03/Tableau-Logo.png" alt="tableau"height="50px"/>
 </a>
-<a href="https://www.java.com/en/" target="blank_" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50px" height="50px"/>
+<a href="https://react.dev" target="blank_" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react" width="50px" height="50px"/>
+</a>
+<a href="https://angular.dev" target="blank_" rel="noreferrer">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo.png" alt="angular" width="50px" height="50px"/>
 </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="blank_" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50px" height="50px"/>
@@ -113,3 +126,5 @@
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
+
+<!-- End Third Section -->
