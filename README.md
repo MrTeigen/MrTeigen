@@ -55,7 +55,7 @@ Always: Experimenting with new tools, frameworks, and creative coding.
     <img src="https://i.pinimg.com/originals/cc/c3/81/ccc3816099ebc2d42ba538bf747b8918.png" alt="Prometheus" height="50px"/>
 </a>
 <a href="https://grafana.com/oss/loki/" target="blank_" rel="noreferrer">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ffiles.readme.io%2Fe5e1b43-grafana-loki.png&sp=1747249768T3e63f13f11e83c39e0a696e9c3e5003ea3d79a0b068b8ee0999003cfdd454c7e" alt="Loki" height="50px"/>
+    <img src="https://miro.medium.com/v2/resize:fit:300/1*x1rbTTiuJL4LOnjbkIlfhA.png" alt="Loki" height="50px"/>
 </a>
 <a href="https://git-scm.com/" target="blank_" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="50px"/>
