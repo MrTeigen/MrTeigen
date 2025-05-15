@@ -99,6 +99,9 @@ Always: Experimenting with new tools, frameworks, and creative coding.
 <a href="https://sass-lang.com/" target="blank_" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="sass" width="50px" height="50px"/>
 </a>
+<a href="https://tailwindcss.com" target="blank_" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="tailwindcss" width="50px" height="50px"/>
+</a>
 </div>
 
 <!-- End Second Section -->
